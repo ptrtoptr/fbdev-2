@@ -4,5 +4,5 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://ptrtoptr.github.io/fbdev/)
+- [Публичная страница на GitHub Pages](https://ptrtoptr.github.io/fbdev-1/)
 
